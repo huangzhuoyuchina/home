@@ -71,7 +71,7 @@ let linksData = [
   {
     icon: Flask,
     name: "cloud2",
-    link: "https://1.hoogyu.ga/",
+    link: "https://10.hoogyu.ga/",
   },
 ];
 
