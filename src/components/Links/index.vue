@@ -39,7 +39,6 @@ import {
   Book,
   Flask,
 } from "@vicons/fa";
-
 // 网站链接数据
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
@@ -55,26 +54,25 @@ let linksData = [
   },
   {
     icon: CompactDisc,
-    name: "博客2",
-    link: "https://blog2.hoogyu.ga/",
+    name: "音乐12",
+    link: "https://hoogyu.ga/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://test.hoogyu.ga/",
-  },
-  {
-    icon: Boo2k,
-    name: "起始页2",
     link: "https://index12.hoogyu.ga/",
   },
   {
+    icon: Book,
+    name: "网址集",
+    link: "https://blog2.hoogyu.ga/",
+  },
+  {
     icon: Flask,
-    name: "cloud2",
-    link: "https://10.hoogyu.ga/",
+    name: "实验室",
+    link: "/",
   },
 ];
-
 // 链接跳转
 const jumpLink = (url) => {
   window.open(url, "_blank");
@@ -106,7 +104,6 @@ const jumpLink = (url) => {
       justify-content: center;
       animation: fade;
       -webkit-animation: fade 0.5s;
-
       &:hover {
         transform: scale(1.02);
         background: rgb(0 0 0 / 40%);
