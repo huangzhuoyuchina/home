@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.hoogyu.ga/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://pan.hoogyu.ga/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "博客2",
+    link: "https://blog2.hoogyu.ga/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://test.hoogyu.ga/",
   },
   {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    icon: Boo2k,
+    name: "起始页2",
+    link: "https://index12.hoogyu.ga/",
   },
   {
     icon: Flask,
-    name: "实验室",
-    link: "https://lab.imsyy.top/",
+    name: "cloud2",
+    link: "https://1.hoogyu.ga/",
   },
 ];
 
