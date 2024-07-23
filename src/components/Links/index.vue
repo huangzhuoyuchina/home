@@ -45,31 +45,31 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.hoogyu.ga/",
+    link: "https://blog.tsynws.org/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.hoogyu.ga/",
+    link: "https://alist.tsynws.org/",
   },
   {
     icon: CompactDisc,
-    name: "音乐12",
-    link: "https://hoogyu.ga/",
+    name: "主页",
+    link: "https://tsynws.org/",
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://index12.hoogyu.ga/",
+    name: "提教社论坛",
+    link: "https://club.tsynws.org/",
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://blog2.hoogyu.ga/",
+    name: "test",
+    link: "https://test.tsynws.org/",
   },
   {
     icon: Flask,
-    name: "实验室",
+    name: "你好",
     link: "/",
   },
 ];
