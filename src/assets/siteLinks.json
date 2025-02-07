@@ -1,23 +1,23 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "同山月博客",
+    "link": "https://blog.tsy.re/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "同山月网盘",
+    "link": "https://pan.tsy.re"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "同山月下载站",
+    "link": "https://alist.tsy.re/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "同山月工具箱",
+    "link": "https://tool.tsy.re/"
   },
   {
     "icon": "Book",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "同山月站点监测",
+    "link": "https://zt.tsy.re/"
   }
 ]
